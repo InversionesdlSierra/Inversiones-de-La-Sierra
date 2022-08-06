@@ -1,0 +1,94 @@
+@charset "utf-8";
+#todos {
+    width: 800px;
+    padding-left: auto;
+    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+#banner {
+}
+#menu {
+}
+#texto {
+    width: 550px;
+    float: left;
+}
+#textoproducto {
+    color: #FF0004;
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+}
+
+#productotemporada {
+    width: 250px;
+    float: right;
+}
+.TITULO {
+    color: #48D747;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: x-large;
+    text-align: center;
+}
+#intro {
+    font-size: medium;
+    text-align: left;
+    color: #000000;
+}
+#textonosotros {
+    width: 500px;
+    float: left;
+}
+#imagerelative {
+    width: 300px;
+    float: right;
+}
+#imagen1 {
+    text-align: center;
+}
+
+#imagen2 {
+    text-align: center;
+}
+#imagen3 {
+    text-align: center;
+}
+
+#nose {
+    text-align: center;
+}
+#productoA {
+    width: 400px;
+    float: left;
+}
+#productoB {
+    width: 400px;
+    float: right;
+}
+#video {
+}
+.videoshow {
+    margin-left: auto;
+    margin-right: auto;
+}
+#menu #video {
+    padding-left: auto;
+    padding-right: auto;
+}
+.TITULOSCNT {
+    color: #000000;
+    font-family: aladin;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-large;
+}
+.FORM {
+    color: #D11C1F;
+    font-family: bangers;
+    font-style: normal;
+    font-weight: 400;
+    font-size: large;
+}
